@@ -6,26 +6,34 @@
 
 <hr>
 
-## How to run the app 
-Inside a folder, run:
-```bash
-$ git clone https://github.com/HMDarkFir3/password-generator.git
-```
-At the root of the project, run:
-```bash
-npm install  
-or 
-yarn install
-```
-After installing the project dependencies, run:
-```bash
-expo start
-```
+## 📋 Sobre
+MoveIt e uma aplicação para incentivar quem fica horas no computador a se exercitar, usando o método pomodoro, a cada 25 minutos concentrado no trabalho ele terá uma pausa para efetuar um pequeno exercício e com adição da gamificação na aplicação.
+
 <hr>
 
-# Technologies 
+## 📂 Como rodar o projeto
 
-The following tools were used in the construction of the project:
+```bash
+#  Clone o repositório:
+git clone https://github.com/HMDarkFir3/password-generator.git
+
+# Entrar no diretório
+cd password-generator
+
+# Instalar as dependências
+npm install  
+ou
+yarn install
+
+# Iniciar o projeto
+expo start
+```
+
+<hr>
+
+## 🚀 Tecnologias Utilizadas
+ 
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [React Native](https://reactnative.dev)
 - [Expo](https://expo.io)
@@ -35,7 +43,7 @@ The following tools were used in the construction of the project:
 
 <hr>
 
-## Author 
+## 🧑 Autor
 
 <img style="border-radius: 50%;" src="https://github.com/HMDarkFir3.png" width="100px;" alt=""/>
  <h4>Henrique Luís Oliveira Marques</h4>
@@ -44,7 +52,7 @@ The following tools were used in the construction of the project:
 
 <hr>
 
-## License
-This project is under the license [MIT](./LICENSE)
+## 📝 Licença
+Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber mais. 
 <br>
-👋🏽 [Get in Touch!](https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/)
+👋🏽 [Entre em contato!](https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/)
