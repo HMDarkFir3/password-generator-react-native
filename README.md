@@ -18,22 +18,30 @@ Aplicativo de gerador de senha, onde você consegue selecionar o tamanho da senh
 
 ---
 
-## 📂 Como rodar o projeto
+## 📂 Como rodar este projeto
+
+Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com) e [NodeJs](https://nodejs.org/en/) Instalado em seu computador.
+
+### 🌀 Clonando o repositório
 
 ```bash
-#  Clone o repositório:
-git clone https://github.com/HMDarkFir3/password-generator.git
+# Clone este repositório
+$ git clone https://github.com/HMDarkFir3/password-generator.git
 
-# Entrar no diretório
-cd password-generator
+# Acesse a pasta do projeto no terminal/cmd
+$ cd password-generator
+```
 
-# Instalar as dependências
-npm install  
-ou
-yarn install
+### 🎲 Rodando a Aplicação
 
-# Iniciar o projeto
-expo start
+```bash
+# Instale as dependências
+$ yarn install
+
+# Execute a Aplicação em Desenvolvimento
+$ expo start 
+
+# O servidor inciará na porta:19002 - acesse http://localhost:19002
 ```
 
 ---
