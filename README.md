@@ -4,12 +4,19 @@
   🚀 Concluded 🚀
 </h1>
 
-<hr>
+---
 
 ## 📋 Sobre
 Aplicativo de gerador de senha, onde você consegue selecionar o tamanho da senha de 5 até 15.
 
-<hr>
+---
+
+## ⚙️ Funcionalidades
+
+- [x] Selecionar o tamanho da senha de 5 até 15.
+- [x] Copiar a senha.
+
+---
 
 ## 📂 Como rodar o projeto
 
@@ -29,7 +36,7 @@ yarn install
 expo start
 ```
 
-<hr>
+---
 
 ## 🚀 Tecnologias Utilizadas
  
@@ -41,7 +48,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [expo-clipboard](https://docs.expo.io/versions/latest/react-native/clipboard/)
 - [slider](https://github.com/callstack/react-native-slider)
 
-<hr>
+---
 
 ## 💪 Como contribuir para o projeto
 
@@ -51,7 +58,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 4. Envie as suas alterações: `git push origin my-feature`
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
-<hr>
+---
 
 ## 🧑 Autor
 
@@ -60,7 +67,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/)](https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/) 
 
-<hr>
+---
 
 ## 📝 Licença
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber mais. 
