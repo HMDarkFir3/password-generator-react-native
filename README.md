@@ -66,7 +66,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Expo](https://expo.io)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [expo-clipboard](https://docs.expo.io/versions/latest/react-native/clipboard/)
-- [slider](https://github.com/callstack/react-native-slider)
+- [react-native-slider](https://github.com/callstack/react-native-slider)
 
 ---
 
