@@ -1,7 +1,7 @@
 <h1 align="center">Password Generator</h1>
 
 <h1 align="center">
-  🚀 concluído 🚀
+  🚀 Concluído 🚀
 </h1>
 
 <p align="center" >
