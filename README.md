@@ -5,13 +5,13 @@
 </h1>
 
 <p align="center" >
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hmdarkfir3/password-generator" />
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hmdarkfir3/PasswordGenerator" />
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/hmdarkfir3/password-generator">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/hmdarkfir3/PasswordGenerator">
   
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hmdarkfir3/password-generator">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hmdarkfir3/PasswordGenerator">
   
-  <img alt="Repository issues size" src="https://img.shields.io/github/issues/hmdarkfir3/password-generator">
+  <img alt="Repository issues size" src="https://img.shields.io/github/issues/hmdarkfir3/PasswordGenerator">
   
   <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg" />
 </p>
@@ -38,10 +38,10 @@ Para clonar e executar este aplicativo, você precisará de [Git](https://git-sc
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/HMDarkFir3/password-generator.git
+$ git clone https://github.com/HMDarkFir3/PasswordGenerator.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd password-generator
+$ cd PasswordGenerator
 ```
 
 ### 🎲 Rodando a Aplicação
